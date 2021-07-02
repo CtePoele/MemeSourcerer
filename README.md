@@ -28,10 +28,10 @@ Reverse image search images in-app | -
 
 Image Sourcing | Video Sourcing
 -|-
-<img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-source.jpg" height="350"> | <img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-video.jpg" height="350">
+<img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-source.jpg" height="500"> | <img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-video.jpg" height="500">
 
 Image Cropping | Image RIS'ing
 -|-
-<img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-crop.jpg" height="350"> | <img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-sauce.jpg" height="350">
+<img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-crop.jpg" height="500"> | <img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-sauce.jpg" height="500">
 
 ###### Disclaimer:<br />I do not own íFunny.co. The app of MSrc is meant to be an extension of the official app, not a replacement.<br />All rights belong to their respected owners.
