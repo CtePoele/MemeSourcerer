@@ -30,7 +30,7 @@ Image Sourcing | Video Sourcing
 -|-
 <img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-source.jpg" height="500"> | <img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-video.jpg" height="500">
 
-Image Cropping | Image RIS'ing
+Image Cropping | Reverse Image Searching
 -|-
 <img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-crop.jpg" height="500"> | <img src="https://github.com/CtePoele/MemeSourcerer/blob/main/docs/ex-sauce.jpg" height="500">
 
